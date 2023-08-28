@@ -17,6 +17,8 @@ I also enjoy discussing career change because my life journey first took me to *
 - [2022](https://www.aronberezkin.com/posts/react-native-at-strv-in-2022)
 
 ## My public talks
+- New Expo Tools for React Native Developers | Launch Party Recap [YouTube Livestream](https://www.youtube.com/watch?v=LIRlZIUaBEg&t)
+
 - STRV React Native Meetup: Best Practices for Mobile App Updatability <br/> [Brno](https://www.eventbrite.com/e/brno-react-native-meetup-tickets-529055237457?aff=ebdsoporgprofile) | [Prague](https://www.eventbrite.com/e/prague-react-native-meetup-tickets-529091897107?aff=ebdsoporgprofile)
 
 - STRV Frontend Academy 2022: Lesson 13: Authentication <br/> [Video](https://drive.google.com/file/d/1ghrnwalQYxYLmW0zBLW0zl0pWUnOXxve/view) | [Wiki + Slides + Repo](https://github.com/strvcom/frontend-academy-2022/wiki/Lesson-13:-Authentication)
