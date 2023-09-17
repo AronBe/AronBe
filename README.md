@@ -18,6 +18,9 @@ I also enjoy discussing career change because my life journey first took me to *
 
 ## My public talks
 
+- News from React Native EU 2023 with Aron Berezkin<br/>
+  [YouTube Livestream](https://www.youtube.com/watch?v=nwC8rVWFpvU)
+
 - Building the World's Best Apps with Áron Berezkin | Rocket Ship 005 <br/> [Spotify](https://open.spotify.com/episode/0XX6UVx2bGrgff7jKc75jq?si=09696ccd59d14585) | [YouTube](https://www.youtube.com/watch?v=_3bNhx_F1yA)
 
 - New Expo Tools for React Native Developers | Launch Party Recap<br/> [YouTube Livestream](https://www.youtube.com/watch?v=LIRlZIUaBEg&t)
