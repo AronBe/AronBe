@@ -17,6 +17,8 @@ I also enjoy discussing career change because my life journey first took me to *
 - [2022](https://www.aronberezkin.com/posts/react-native-at-strv-in-2022)
 
 ## My public talks
+- React Native is alive! App.js Recap with Áron Berezkin | Rocket Ship 042 <br/> [Spotify](https://open.spotify.com/episode/4zUtmXhYcmr4Z8vFTIsdHy?si=b7c64dd6d99a4bda) | [YouTube](https://www.youtube.com/watch?v=GeUfrojkoo0)
+
 - STRV React Native Meetup:  Building a Top-Rated React Native App and Reaching the #1 in the US AppStore <br/> [Prague](https://www.eventbrite.com/e/react-native-meetup-tickets-897025185477?aff=ebdsoporgprofile)
 
 - News from React Native EU 2023 with Aron Berezkin<br/>
